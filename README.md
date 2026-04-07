@@ -9,19 +9,19 @@ This repository showcases my technical writing samples, focusing on explaining t
 
 ## Writing Samples
 
-### 1. Beginner Guide to Machine Learning
+### 1. [Beginner Guide to Machine Learning](machine-learning-guide.md)
 - Explains basic machine learning concepts and workflow  
 - Simplifies complex topics for beginners  
 
-### 2. How APIs Work – A Simple Guide
+### 2. [How APIs Work – A Simple Guide](api-guide.md)
 - Describes API communication with request and response flow  
 - Provides clear and structured explanation  
 
-### 3. Step-by-Step Guide to Building a Python Project
+### 3. [Step-by-Step Guide to Building a Python Project](python-project-guide.md)
 - Covers the complete workflow of a Python project  
 - Focuses on clarity and structured documentation  
 
-### 4. Beginner Guide to Selenium Automation Testing
+### 4. [Beginner Guide to Selenium Automation Testing](selenium-automation-guide.md)
 - Explains Selenium components and automation workflow  
 - Demonstrates real-world testing concepts  
 
