@@ -45,4 +45,4 @@ This repository showcases my technical writing samples, focusing on explaining t
 
 ## Contact
 - Email: jagasri04@gmail.com  
-- LinkedIn: (Add your link here)
+- LinkedIn: https://www.linkedin.com/in/jaga-sri-b41362254/
